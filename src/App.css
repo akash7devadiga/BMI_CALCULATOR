@@ -1,0 +1,46 @@
+.register-nav-link a
+{
+	text-decoration: none;
+}
+.login-nav-link a
+{
+	text-decoration: none;
+}
+
+.nav{
+	background-color: black
+}
+.nav a {
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	margin: 25px;
+}
+.about-para
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+.about-list
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+.about-email
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.about-header
+{
+	color: navy;
+}
+.features-header
+{
+	color: navy;
+}
+.contact-header
+{
+	color: navy;
+}
